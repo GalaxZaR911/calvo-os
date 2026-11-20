@@ -1,0 +1,9 @@
+live-boot
+live-config
+systemd-sysv
+sudo
+bash
+coreutils
+iproute2
+iputils-ping
+ca-certificates
